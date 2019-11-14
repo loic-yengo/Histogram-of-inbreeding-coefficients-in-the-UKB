@@ -1,0 +1,11 @@
+This table shows the histogram of 3 inbreeding measures in 456,414 participants of the UK Biobank (UKB) of European ancestry.
+The 3 inbreeding measures are denotes Funi (correlation between uniting gametes, Yang et al. 2011; AJHG), Fhom, the classical
+excess of homozygosity measure and Froh, defined as the percentage of the genome covered by >1.5Mb long runs of homozygosity (ROH).
+
+These summary statistics where derived from genotype data of UKB participants obtained under project 12505. No phenotype is provided here.
+UKB data can be accessed upon request once a research project has been submitted and approved by the
+UKB committee.
+To use this data please cite: 
+  Yengo, L, Wray NR, Visscher, PM. Extreme inbreeding in a European ancestry sample from the contemporary UK population.
+  Nature Communications volume 10, Article number: 3719 (2019).
+
